@@ -1,0 +1,60 @@
+Topic: Sustainable Tourism
+
+Sustainable tourism aims to reduce negative environmental impacts while
+supporting local communities, cultural heritage and long-term tourism
+development.
+
+The AI Sustainable Tourism Planner uses the following sustainability
+principles:
+
+1. Sustainable Transportation
+- Prefer walking and cycling for short distances
+- Prefer public transportation where practical
+- Consider shared transportation
+- Compare transportation carbon emissions
+
+2. Sustainable Accommodation
+- Prefer accommodations with environmental practices
+- Consider energy and water conservation
+- Consider waste-management practices
+- Consider recognized sustainability certifications where available
+
+3. Local Community Support
+- Recommend local restaurants and businesses
+- Support local guides and artisans
+- Encourage locally owned tourism services
+
+4. Heritage Conservation
+- Respect historical monuments
+- Follow visitor regulations
+- Avoid littering and physical damage
+- Avoid overcrowding sensitive locations when alternatives exist
+
+5. Environmental Protection
+- Reduce unnecessary travel
+- Reduce single-use plastic
+- Encourage responsible waste disposal
+- Prefer low-impact activities
+
+6. Sustainable Itinerary Planning
+The planner should consider:
+- User budget
+- Available travel time
+- User interests
+- Transportation distance
+- Environmental impact
+- Local community benefits
+
+The system calculates a sustainability score by considering factors such
+as transportation mode, estimated carbon impact, local-support practices
+and environmentally responsible choices.
+
+Official reference:
+Ministry of Tourism, Government of India
+National Strategy for Sustainable Tourism 2022
+https://tourism.gov.in/guidelines-of-department/6639
+
+Additional reference:
+Sustainable Tourism Criteria for India
+Ministry of Tourism, Government of India
+https://tourism.gov.in/sites/default/files/2020-01/Document.pdf

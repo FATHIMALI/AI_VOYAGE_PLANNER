@@ -1,0 +1,365 @@
+
+================================================================================
+FILE: data\hotels\hotel_details.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['Hotel Name', 'Place', 'description', 'Condition', 'Rating', 'Total Reviews']
+
+FIRST 5 ROWS:
+                        Hotel Name          Place                 description    Condition  Rating Total Reviews
+Taj Hotel & Convention Centre Agra           Agra Travel Sustainable property    Very good     8.4 2,509 reviews
+                Joey's Hostel Agra Taj Ganj, Agra Travel Sustainable property    Very good     8.1 2,512 reviews
+           Hotel Saniya Palace inn Taj Ganj, Agra Travel Sustainable property Review score     6.7   327 reviews
+    Lucky Restaurant & Guest House Taj Ganj, Agra Travel Sustainable property         Good     7.1   180 reviews
+                   Hotel India inn Taj Ganj, Agra Travel Sustainable property    Very good     8.3    14 reviews
+================================================================================
+FILE: data\processed\attractions.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['rank', 'monument', 'domestic_visitors', 'domestic_percentage', 'foreign_rank', 'foreign_monument', 'foreign_visitors', 'foreign_percentage']
+
+FIRST 5 ROWS:
+ rank                        monument  domestic_visitors  domestic_percentage  foreign_rank                                                  foreign_monument  foreign_visitors  foreign_percentage
+    1                       Taj Mahal            3294611                12.65             1                                   Group of Monument, Mamallapuram            144984               45.50
+    2                        Red Fort            1323501                 5.08             2                                                         Taj Mahal             38922               12.21
+    3                     Qutub Minar            1157664                 4.44             3 Tiger headed Rock cut temple & two other monuments, Saluvankuppam             25579                8.03
+    4 Group of Monument, Mamallapuram            1142150                 4.38             4                                                         Agra Fort             13598                4.27
+    5                       Agra Fort            1027462                 3.94             5                                               Gingee Fort, Gingee             10483                3.29
+================================================================================
+FILE: data\processed\carbon.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['country', 'country_code', 'year', 'transport_co2']
+
+FIRST 5 ROWS:
+    country country_code  year  transport_co2
+Afghanistan          AFG  1990         970000
+Afghanistan          AFG  1991         930000
+Afghanistan          AFG  1992         740000
+Afghanistan          AFG  1993         740000
+Afghanistan          AFG  1994         730000
+================================================================================
+FILE: data\processed\destinations.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['destination']
+
+FIRST 5 ROWS:
+                    destination
+                      Taj Mahal
+                       Red Fort
+                    Qutub Minar
+Group of Monument, Mamallapuram
+                      Agra Fort
+================================================================================
+FILE: data\processed\transport.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['origin', 'destination', 'distance_km']
+
+FIRST 5 ROWS:
+   origin destination  distance_km
+     Agra       Delhi          240
+     Agra     Lucknow          334
+     Agra      Kanpur          277
+Ahmedabad      Mumbai          526
+Ahmedabad        Pune          663
+================================================================================
+FILE: data\raw\co2-emissions-transport.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['Entity', 'Code', 'Year', 'Carbon dioxide emissions from transport']
+
+FIRST 5 ROWS:
+     Entity Code  Year  Carbon dioxide emissions from transport
+Afghanistan  AFG  1990                                   970000
+Afghanistan  AFG  1991                                   930000
+Afghanistan  AFG  1992                                   740000
+Afghanistan  AFG  1993                                   740000
+Afghanistan  AFG  1994                                   730000
+================================================================================
+FILE: data\raw\India-Tourism-Statistics-2022-Table-5.2.2.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['10 Most popular Centrally Protected Ticketed Monuments for Domestic Visitors in 2021-22 - Rank', '10 Most popular Centrally Protected Ticketed Monuments for Domestic Visitors in 2021-22 - Name of Monument', '10 Most popular Centrally Protected Ticketed Monuments for Domestic Visitors in 2021-22 - No. of Domestic visitors', '10 Most popular Centrally Protected Ticketed Monuments for Domestic Visitors in 2021-22 - Percentage share', '10 Most popular Centrally Protected Ticketed Monuments for Foreign Visitors in 2021-22 - Rank', '10 Most popular Centrally Protected Ticketed Monuments for Foreign Visitors in 2021-22 - Name of Monument', '10 Most popular Centrally Protected Ticketed Monuments for Foreign Visitors in 2021-22 - No. of Foreign visitors', '10 Most popular Centrally Protected Ticketed Monuments for Foreign Visitors in 2021-22 - Percentage share']
+
+FIRST 5 ROWS:
+ 10 Most popular Centrally Protected Ticketed Monuments for Domestic Visitors in 2021-22 - Rank 10 Most popular Centrally Protected Ticketed Monuments for Domestic Visitors in 2021-22 - Name of Monument  10 Most popular Centrally Protected Ticketed Monuments for Domestic Visitors in 2021-22 - No. of Domestic visitors  10 Most popular Centrally Protected Ticketed Monuments for Domestic Visitors in 2021-22 - Percentage share  10 Most popular Centrally Protected Ticketed Monuments for Foreign Visitors in 2021-22 - Rank 10 Most popular Centrally Protected Ticketed Monuments for Foreign Visitors in 2021-22 - Name of Monument  10 Most popular Centrally Protected Ticketed Monuments for Foreign Visitors in 2021-22 - No. of Foreign visitors  10 Most popular Centrally Protected Ticketed Monuments for Foreign Visitors in 2021-22 - Percentage share
+                                                                                              1                                                                                                  Taj Mahal                                                                                                             3294611                                                                                                       12.65                                                                                              1                                                                           Group of Monument, Mamallapuram                                                                                                            144984                                                                                                      45.50
+                                                                                              2                                                                                                   Red Fort                                                                                                             1323501                                                                                                        5.08                                                                                              2                                                                                                 Taj Mahal                                                                                                             38922                                                                                                      12.21
+                                                                                              3                                                                                                Qutub Minar                                                                                                             1157664                                                                                                        4.44                                                                                              3                                         Tiger headed Rock cut temple & two other monuments, Saluvankuppam                                                                                                             25579                                                                                                       8.03
+                                                                                              4                                                                            Group of Monument, Mamallapuram                                                                                                             1142150                                                                                                        4.38                                                                                              4                                                                                                 Agra Fort                                                                                                             13598                                                                                                       4.27
+                                                                                              5                                                                                                  Agra Fort                                                                                                             1027462                                                                                                        3.94                                                                                              5                                                                                       Gingee Fort, Gingee                                                                                                             10483                                                                                                       3.29
+================================================================================
+FILE: data\raw\indian-cities-dataset.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['Origin', 'Destination', 'Distance']
+
+FIRST 5 ROWS:
+   Origin Destination  Distance
+     Agra       Delhi       240
+     Agra     Lucknow       334
+     Agra      Kanpur       277
+Ahmedabad      Mumbai       526
+Ahmedabad        Pune       663
+================================================================================
+FILE: data\top indian place\Top Indian Places to Visit.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['Unnamed: 0', 'Zone', 'State', 'City', 'Name', 'Type', 'Establishment Year', 'time needed to visit in hrs', 'Google review rating', 'Entrance Fee in INR', 'Airport with 50km Radius', 'Weekly Off', 'Significance', 'DSLR Allowed', 'Number of google review in lakhs', 'Best Time to visit']
+
+FIRST 5 ROWS:
+ Unnamed: 0     Zone State  City                 Name         Type  Establishment Year  time needed to visit in hrs  Google review rating  Entrance Fee in INR Airport with 50km Radius Weekly Off  Significance DSLR Allowed  Number of google review in lakhs Best Time to visit
+          0 Northern Delhi Delhi           India Gate War Memorial                1921                          0.5                   4.6                    0                      Yes        NaN    Historical          Yes                              2.60            Evening
+          1 Northern Delhi Delhi       Humayun's Tomb         Tomb                1572                          2.0                   4.5                   30                      Yes        NaN    Historical          Yes                              0.40          Afternoon
+          2 Northern Delhi Delhi    Akshardham Temple       Temple                2005                          5.0                   4.6                   60                      Yes        NaN     Religious           No                              0.40          Afternoon
+          3 Northern Delhi Delhi Waste to Wonder Park   Theme Park                2019                          2.0                   4.1                   50                      Yes     Monday Environmental          Yes                              0.27            Evening
+          4 Northern Delhi Delhi        Jantar Mantar  Observatory                1724                          2.0                   4.2                   15                      Yes        NaN    Scientific          Yes                              0.31            Morning
+================================================================================
+FILE: data\Tourist spot\Characteristics.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['characteristics']
+
+FIRST 5 ROWS:
+characteristics
+        railway
+      education
+     meditation
+      amusement
+        boating
+================================================================================
+FILE: data\Tourist spot\Destinations_bangalore.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['POI_Name', 'Latitude', 'Longitude', 'Name', 'DestinationID']
+
+FIRST 5 ROWS:
+                 POI_Name  Latitude  Longitude                      Name  DestinationID
+          Lalbag Garden 1 12.951030  77.588355            Lalbag Garden               1
+        Vidhan Soudha BLR 12.979595  77.590599         Vidhan Soudha BLR              2
+            ISCKON Temple 13.009560  77.550120             ISCKON Temple              3
+Tipu Sultan Summer Palace 12.959277  77.573920 Tipu Sultan Summer Palace              4
+      HAL Heritage Centre 12.955467  77.680770       HAL Heritage Centre              5
+================================================================================
+FILE: data\Tourist spot\Destinations_chandigarh.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['DestinationID', 'Name', 'Latitude', 'Longitude']
+
+FIRST 5 ROWS:
+ DestinationID                              Name  Latitude  Longitude
+             1      Gurudwara Dukh Niwaran Sahib 30.347340  76.397004
+             2                      Chattbir Zoo 30.603652  76.792314
+             3                 Sohana Gurudwara  30.688834  76.707544
+             4                      Rose Garden  30.744980  76.778520
+             5 Government Museum and Art Gallery 30.749665  76.787941
+================================================================================
+FILE: data\Tourist spot\Destinations_chennai.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['POI_Name', 'Latitude', 'Longitude', 'Name', 'DestinationID']
+
+FIRST 5 ROWS:
+                POI_Name  Latitude  Longitude                     Name  DestinationID
+          Perungudi Lake 12.978795  80.259118           Perungudi Lake              1
+             Hidden Lake 12.983479  80.178781              Hidden Lake              2
+  Perarignar Anna Museum 13.081816  80.285211   Perarignar Anna Museum              3
+       Adyar Banyan Tree 13.022283  80.267358        Adyar Banyan Tree              4
+Dr. APJ Abdul Kalam Park 13.075797  80.233712 Dr. APJ Abdul Kalam Park              5
+================================================================================
+FILE: data\Tourist spot\Destinations_coimbatore.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['POI_Name', 'Latitude', 'Longitude', 'Name', 'DestinationID']
+
+FIRST 5 ROWS:
+                             POI_Name  Latitude  Longitude                                  Name  DestinationID
+Dhyanlinga Meditation and Yoga Centre 10.977987  76.735281 Dhyanlinga Meditation and Yoga Centre              1
+                 Adiyogi Shiva Statue 10.972466  76.740440                  Adiyogi Shiva Statue              2
+                     Isha Yoga Temple 10.976272  76.736687                      Isha Yoga Temple              3
+     Narasipuram Multi Step Waterfall 10.979833  76.760207      Narasipuram Multi Step Waterfall              4
+             Kovai Kutralam Waterfall 10.939689  76.690753              Kovai Kutralam Waterfall              5
+================================================================================
+FILE: data\Tourist spot\Destinations_delhi.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['DestinationID', 'Name', 'Latitude', 'Longitude']
+
+FIRST 5 ROWS:
+ DestinationID                    Name  Latitude  Longitude
+             1     Govind Devji Temple 27.581424  77.699382
+             2              Vrindavan  27.581496  77.702203
+             3                 Mathura 27.483126  77.673493
+             4             Deeg Palace 27.472729  77.323707
+             5 Sultanpur National Park 28.464536  76.886309
+================================================================================
+FILE: data\Tourist spot\Destinations_guwahati.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['POI_Name', 'Latitude', 'Longitude', 'Characteristics', 'Name', 'DestinationID']
+
+FIRST 5 ROWS:
+           POI_Name  Latitude  Longitude                                                                 Characteristics                Name  DestinationID
+       IIT Guwahati 26.202740  91.700370             Education hub, technological innovation centre, academic excellence        IIT Guwahati              1
+Sri Umananda Temple 26.196330  91.745160 Religious pilgrimage site, scenic location on an island, spiritual significance Sri Umananda Temple              2
+   Guwahati Ropeway 10.830302  76.720112                        Academic Institutions, Wildlife Sanctuaries, Eco-tourism    Guwahati Ropeway              3
+         Nehru Park 26.188500  91.747510                   Green space for recreation, walking trails, peaceful ambiance          Nehru Park              4
+          Pan Bazar 26.182700  91.749220          Bustling market area, shopping destination, variety of goods available           Pan Bazar              5
+================================================================================
+FILE: data\Tourist spot\Destinations_hyderabad.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['DestinationID', 'Name', 'Latitude', 'Longitude']
+
+FIRST 5 ROWS:
+ DestinationID              Name  Latitude  Longitude
+             1 Barid shahi tombs 17.920134  77.503787
+             2       Bidar fort  17.921091  77.530118
+             3   Gullbarga fort  17.340569  76.833164
+             4 Ananthagiri Hills 17.311502  77.864582
+             5     Warangal Fort 17.956421  79.615281
+================================================================================
+FILE: data\Tourist spot\Destinations_kolkata.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['DestinationID', 'Name', 'Latitude', 'Longitude']
+
+FIRST 5 ROWS:
+ DestinationID                                Name  Latitude  Longitude
+             1           Sajnekhali Tiger Reserve  22.126281  88.803368
+             2            Sunderban Tiger Reserve  21.927451  88.723765
+             3 Bibhuti Bhushan Wildlife Sanctuary  23.186820  88.757320
+             4            Dakshineswar Kali Temple 22.654829  88.357520
+             5                       Central Park  22.589105  88.414410
+================================================================================
+FILE: data\Tourist spot\Destinations_manali.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['POI_Name', 'Latitude', 'Longitude', 'Name', 'DestinationID']
+
+FIRST 5 ROWS:
+                         POI_Name  Latitude  Longitude                              Name  DestinationID
+       Hidimba Devi Temple_Manali 32.248335  77.181637        Hidimba Devi Temple_Manali              1
+Lama Dugh Trek Start Point Manali 32.248920  77.174734 Lama Dugh Trek Start Point Manali              2
+            Lion King Rock Manali 32.244266  77.170448             Lion King Rock Manali              3
+                    Manali Market 32.244689  77.189569                     Manali Market              4
+                Lamadugh Top Trek 32.231108  77.141878                 Lamadugh Top Trek              5
+================================================================================
+FILE: data\Tourist spot\Destinations_mumbai.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['DestinationID', 'Name', 'Latitude', 'Longitude']
+
+FIRST 5 ROWS:
+ DestinationID                                 Name  Latitude  Longitude
+             1                 Siddhivinayak Temple 19.016900  72.830400
+             2                     Gateway of India 18.922456  72.834778
+             3                    Nehru Planetarium 19.008900  72.877778
+             4 Chhatrapati Shivaji Maharaj Terminus 18.935006  72.877647
+             5                   Murud-Janjira Fort 18.331900  72.960800
+================================================================================
+FILE: data\Tourist spot\Destinations_munnar.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['POI_Name', 'Latitude', 'Longitude', 'Name', 'DestinationID']
+
+FIRST 5 ROWS:
+                                     POI_Name  Latitude  Longitude                                          Name  DestinationID
+                 Munnar Tea Garden View Point 10.042106  77.039940                  Munnar Tea Garden View Point              1
+            Pomathendu Munnar Tea Garden View 10.059649  77.063960             Pomathendu Munnar Tea Garden View              2
+                            Munnar Pothamendu 10.036556  77.076797                             Munnar Pothamendu              3
+                  Munnar Tea Hill Hiking Spot 10.028382  77.045574                   Munnar Tea Hill Hiking Spot              4
+Wonder Valley Adventure Amusement Park Munnar 10.027159  77.035570 Wonder Valley Adventure Amusement Park Munnar              5
+================================================================================
+FILE: data\Tourist spot\Destinations_palakkad.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['POI_Name', 'Latitude', 'Longitude', 'Characteristics', 'Name', 'DestinationID']
+
+FIRST 5 ROWS:
+                  POI_Name  Latitude  Longitude                                              Characteristics                       Name  DestinationID
+          Subix Merry Land 10.772243  76.639996        Amusement park, family entertainment, thrilling rides           Subix Merry Land              1
+             Palakkad Fort 10.767690  76.656819 Historical landmark, architectural marvel, cultural heritage              Palakkad Fort              2
+           Kava view point 10.830302  76.720112              Scenic vista, panoramic views, photography spot            Kava view point              3
+                Malampuzha 10.804114  76.643745         Tourist destination, botanical garden, dam reservoir                 Malampuzha              4
+Chulanur Peafowl Sanctuary 10.718003  76.472380          Wildlife sanctuary, birdwatching, conservation area Chulanur Peafowl Sanctuary              5
+================================================================================
+FILE: data\Tourist spot\Destinations_pune.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['POI_Name', 'Latitude', 'Longitude', 'Name', 'DestinationID']
+
+FIRST 5 ROWS:
+                                      POI_Name  Latitude  Longitude                                           Name  DestinationID
+Shri Bhimashankar Jyotirlinga Wildlife Reserve 19.093608  73.554609 Shri Bhimashankar Jyotirlinga Wildlife Reserve              1
+                                 Sinhagad Fort 18.370698  73.754182                                  Sinhagad Fort              2
+                                     Lal Mahal 18.518993  73.856616                                      Lal Mahal              3
+                                  Parvati Hill 18.497587  73.848238                                   Parvati Hill              4
+          Joshi's Museum Of Miniature Railways 18.501654  73.822365           Joshi's Museum Of Miniature Railways              5
+================================================================================
+FILE: data\Tourist spot\Tourist_Spots.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['DestinationID', 'Name', 'Latitude', 'Longitude', 'Characteristics']
+
+FIRST 5 ROWS:
+ DestinationID                                          Name  Latitude  Longitude              Characteristics
+             1                  Munnar Tea Garden View Point 10.042106  77.039940     scenic, tea, photography
+             2             Pomathendu Munnar Tea Garden View 10.059649  77.063960     scenic, tea, photography
+             3                             Munnar Pothamendu 10.036556  77.076797        tea, greenery, serene
+             4                   Munnar Tea Hill Hiking Spot 10.028382  77.045574  trekking, nature, adventure
+             5 Wonder Valley Adventure Amusement Park Munnar 10.027159  77.035570 adventure, amusement, family
+================================================================================
+FILE: data\Tourist spot\User_Visits.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['photoID;"userID";"dateTaken";"poiID";"poiTheme";"poiFreq";"seqID"']
+
+FIRST 5 ROWS:
+photoID;"userID";"dateTaken";"poiID";"poiTheme";"poiFreq";"seqID"
+         8703140158;"10002536@N02";1367146438;8;"Structure";571;1
+         8703142404;"10002536@N02";1367146924;8;"Structure";571;1
+         8703142278;"10002536@N02";1367147103;8;"Structure";571;1
+         8702020493;"10002536@N02";1367147154;8;"Structure";571;1
+           3074192212;"10014440@N06";1227393491;5;"Palace";1750;2
+================================================================================
+FILE: data\Tourist spot\Yfcc100m_PicturesData_India(Refined).csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['PhotoID', 'UserID', 'Date', 'Latitude', 'Longitude', 'Address']
+
+FIRST 5 ROWS:
+  PhotoID       UserID    Date  Latitude  Longitude                                                                                                                                 Address
+ 29572347 16047093@N00 02:21.0 10.495998  76.218681                                               KARAMUKKU BHAGAVATHY TEMPLE, VALIYALUKKAL, 680027, VALIYALUKKAL, CHIYYARAM, KERALA, INDIA
+ 46378381 72738192@N00 27:03.0 26.479349  74.562866 THE PINEAPPLE EXPRESS HOSTEL, 5 SAMARIYA COLONY JA­MNI KUND ROAD, 305022, 5 SAMARIYA COLONY JA­MNI KUND ROAD, PUSHKAR, RAJASTHAN, INDIA
+122726933 15792768@N00 44:26.0 13.091516  80.293579                                                           CHENNAI BEACH, RAJAJI SALAI, 600001, RAJAJI SALAI, CHENNAI, TAMIL NADU, INDIA
+122735272 15792768@N00 05:24.0 13.091516  80.293579                                                           CHENNAI BEACH, RAJAJI SALAI, 600001, RAJAJI SALAI, CHENNAI, TAMIL NADU, INDIA
+210798635 80484221@N00 01:25.0  9.582300  76.560630                                                                                                                     THAMARASSERY, INDIA
+================================================================================
+FILE: data\Tourist spot\Yfcc100m_PicturesData_India(Unrefined).csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['PhotoID', 'UserID', 'Date', 'Latitude', 'Longitude', 'Address']
+
+FIRST 5 ROWS:
+   PhotoID       UserID    Date  Latitude  Longitude                                                                                                                                                                    Address
+4285275897 30007901@N04 42:17.0  8.074356  77.554335                        Jhinki Devi Stupa Shila, Sannathi Street, Vavaturai, Agastheeswaram, Kanyakumari, Agastheeswaram, Kanniyakumari District, Tamil Nadu, 629702, India
+3492849428 84207927@N00 52:54.0  8.074595  77.552511 தமிழ்நாடு சுற்றுலா மேம்பாட்டு துறை (கடல் சார்), Sannathi Street, Vavaturai, Agastheeswaram, Kanyakumari, Agastheeswaram, Kanniyakumari District, Tamil Nadu, 629702, India
+3492817247 84207927@N00 47:14.0  8.074595  77.552511 தமிழ்நாடு சுற்றுலா மேம்பாட்டு துறை (கடல் சார்), Sannathi Street, Vavaturai, Agastheeswaram, Kanyakumari, Agastheeswaram, Kanniyakumari District, Tamil Nadu, 629702, India
+3492025991 84207927@N00 49:37.0  8.074595  77.552511 தமிழ்நாடு சுற்றுலா மேம்பாட்டு துறை (கடல் சார்), Sannathi Street, Vavaturai, Agastheeswaram, Kanyakumari, Agastheeswaram, Kanniyakumari District, Tamil Nadu, 629702, India
+3492848616 84207927@N00 52:26.0  8.074595  77.552511 தமிழ்நாடு சுற்றுலா மேம்பாட்டு துறை (கடல் சார்), Sannathi Street, Vavaturai, Agastheeswaram, Kanyakumari, Agastheeswaram, Kanniyakumari District, Tamil Nadu, 629702, India
+================================================================================
+FILE: data\Travel\Expanded_Indian_Travel_Dataset.csv
+================================================================================
+TYPE: CSV
+COLUMNS: ['Destination Name', 'State', 'Region', 'Category', 'Popular Attraction', 'Accessibility', 'Nearest Airport', 'Nearest Railway Station']
+
+FIRST 5 ROWS:
+ Destination Name         State Region  Category Popular Attraction Accessibility      Nearest Airport Nearest Railway Station
+        Taj Mahal Uttar Pradesh  North  Heritage          Taj Mahal          Easy   Agra Civil Enclave              Agra Cantt
+           Jaipur     Rajasthan   West  Heritage         Amber Fort          Easy Jaipur International         Jaipur Junction
+              Goa           Goa   West     Beach    Calangute Beach          Easy      Dabolim Airport Madgaon Railway Station
+Kerala Backwaters        Kerala  South    Nature      Vembanad Lake      Moderate Cochin International                Alleppey
+         Varanasi Uttar Pradesh  North Religious  Ghats of Varanasi      Moderate  Lal Bahadur Shastri       Varanasi Junction

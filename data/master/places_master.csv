@@ -1,0 +1,326 @@
+city,name,type,visit_hours,rating,entrance_fee,weekly_off,significance,best_time
+Delhi,India Gate,War Memorial,0.5,4.6,0,,Historical,Evening
+Delhi,Humayun's Tomb,Tomb,2.0,4.5,30,,Historical,Afternoon
+Delhi,Akshardham Temple,Temple,5.0,4.6,60,,Religious,Afternoon
+Delhi,Waste to Wonder Park,Theme Park,2.0,4.1,50,Monday,Environmental,Evening
+Delhi,Jantar Mantar,Observatory,2.0,4.2,15,,Scientific,Morning
+Delhi,Chandni Chowk,Market,3.0,4.2,0,Sunday,Market,Afternoon
+Delhi,Lotus Temple,Temple,1.0,4.5,0,Monday,Religious,Evening
+Delhi,Red Fort,Fort,2.0,4.5,35,,Historical,Afternoon
+Delhi,Agrasen ki Baoli,Stepwell,1.0,4.2,0,,Historical,Afternoon
+Delhi,Sunder Nursery,Park,2.0,4.6,0,,Botanical,Afternoon
+Delhi,Garden of Five Senses,Park,2.0,4.1,35,,Botanical,Morning
+Delhi,Lodhi Garden,Park,1.0,4.5,0,,Botanical,All
+Delhi,National Gallery of Modern Art,Museum,3.0,4.5,20,Monday,Artistic,All
+Delhi,National Zoological Park ,Zoo,3.0,4.1,80,Friday,Environmental,All
+Delhi,Qutub Minar,Monument,1.0,4.5,35,,Historical,Afternoon
+Delhi,National Science Centre,Science,5.0,4.4,70,,Scientific,All
+Mumbai,Marine Drive,Promenade,2.0,4.5,0,,Scenic,Evening
+Mumbai,Gateway of India,Monument,1.0,4.6,0,,Historical,All
+Mumbai,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,1.0,4.6,500,,Historical,All
+Mumbai,Sanjay Gandhi National Park,National Park,3.0,4.3,50,Monday,Wildlife,All
+Mumbai,Siddhivinayak Temple,Temple,2.0,4.8,0,,Religious,All
+Mumbai,Mahalaxmi Temple,Temple,1.0,4.7,0,,Religious,All
+Mumbai,Haji Ali Dargah,Religious Shrine,2.0,4.4,0,,Religious,All
+Mumbai,Chowpatty Beach,Beach,2.0,4.3,0,,Recreational,Evening
+Mumbai,Essel World,Amusement Park,5.0,4.3,1149,,Recreational,All
+Mumbai,Elephanta Caves,Monument,4.0,4.3,550,,Historical,All 
+Lonavala,Imagicaa,Amusement Park,5.0,1.4,1149,Monday,Recreational,All
+Bangalore,Bangalore Palace,Palace,2.0,4.2,500,Monday,Historical,Morning
+Bangalore,Lalbagh Botanical Garden,Botanical Garden,1.5,4.4,20,,Nature,Evening
+Bangalore,Cubbon Park,Park,1.0,4.4,0,,Nature,Morning
+Bangalore,Vidhana Soudha,Government Building,0.5,4.6,0,,Architectural,Morning
+Bangalore,ISKCON Temple Bangalore,Temple,1.0,4.6,0,,Religious,Evening
+Hyderabad,Charminar,Landmark,1.0,4.5,25,Friday,Historical,Morning
+Hyderabad,Golconda Fort,Fort,2.0,4.4,30,,Historical,Morning
+Hyderabad,Hussain Sagar Lake,Lake,1.0,4.3,0,,Scenic,Evening
+Hyderabad,Ramoji Film City,Film Studio,4.0,4.4,1150,,Entertainment,All
+Hyderabad,Salar Jung Museum,Museum,2.0,4.4,20,,Historical,All
+Hyderabad,Qutb Shahi Tombs,Tombs,1.0,4.4,25,,Historical,Morning
+Hyderabad,Birla Mandir,Temple,1.0,4.7,0,,Religious,All
+Hyderabad,Chowmahalla Palace,Palace,1.5,4.4,80,,Historical,Morning
+Hyderabad,Nehru Zoological Park,Zoo,3.0,4.2,50,,Wildlife,Morning
+Hyderabad,Lumbini Park,Park,1.0,4.1,20,,Recreational,Evening
+Kolkata,Victoria Memorial,Museum,1.5,4.6,30,Monday,Historical,Morning
+Kolkata,Howrah Bridge,Bridge,0.5,4.6,0,,Architectural,Anytime
+Kolkata,Indian Museum,Museum,2.0,4.6,50,Monday,Historical,Morning
+Kolkata,Dakshineswar Kali Temple,Temple,1.0,4.7,0,,Religious,Morning
+Kolkata,Kalighat Kali Temple,Temple,1.0,4.4,0,,Religious,Morning
+Kolkata,Eden Gardens,Cricket Ground,3.0,4.1,2500,,Sports,All
+Kolkata,Alipore Zoological Gardens,Zoo,2.0,4.3,25,,Wildlife,Afternoon
+Kolkata,Science City Kolkata,Science,3.0,4.4,60,,Educational,All
+Kolkata,Belur Math,Site,1.5,4.7,0,,Religious,Morning
+Kolkata,Marble Palace,Palace,1.0,4.4,0,,Historical,Afternoon
+Goa,Calangute Beach,Beach,2.0,4.4,0,,Scenic,Evening
+Goa,Basilica of Bom Jesus,Church,1.0,4.5,0,,Historical,Afternoon
+Goa,Fort Aguada,Fort,1.5,4.2,0,,Historical,Morning
+Goa,Dudhsagar Falls,Waterfall,3.0,4.6,500,,Nature,Afternoon
+Goa,Anjuna Beach,Beach,2.0,4.4,0,,Scenic,Evening
+Goa,Chapora Fort,Fort,1.0,4.2,0,,Historical,Evening
+Goa,Se Cathedral,Church,1.0,4.5,0,,Historical,Afternoon
+Goa,Baga Beach,Beach,2.0,4.5,0,,Scenic,Evening
+Goa,Arambol Beach,Beach,2.0,4.6,0,,Scenic,Evening
+Goa,Palolem Beach,Beach,2.0,4.6,0,,Scenic,Evening
+Goa,Colva Beach,Beach,2.0,4.3,0,,Scenic,Evening
+Goa,Miramar Beach,Beach,1.5,4.2,0,,Scenic,Evening
+Goa,Aguada Beach,Beach,2.0,4.5,0,,Scenic,Evening
+Goa,Dr. Salim Ali Bird Santuary,Bird Sanctuary,2.0,3.9,10,,Wildlife,Afternoon
+Ahmedabad,Sabarmati Ashram,Historical,1.5,4.6,0,,Historical,Morning
+Dwarka,Dwarkadhish Temple,Temple,2.0,4.7,0,,Religious,Evening
+Junagadh,Gir National Park,National Park,3.0,4.5,3500,,Wildlife,Morning
+Bhuj,White Desert,Site,2.5,4.6,0,,Nature,Evening
+Vadodara,Laxmi Vilas Palace,Palace,2.0,4.4,200,Monday,Historical,Afternoon
+Somnath,Somnath Temple,Temple,2.0,4.8,0,,Religious,Morning
+Rann of Kutch,Rann Utsav,Cultural,3.0,4.9,7500,,Cultural,Evening
+Kevadia,Statue of Unity,Monument,3.0,4.6,350,Monday,Historical,All
+Gandhinagar,Dandi Kutir,Museum,1.5,4.5,0,,Historical,All
+Ahmedabad,Sabarmati Riverfront,Urban Development Project,1.0,4.6,0,,Recreational,Evening
+Ahmedabad,Manek Chowk,Market,2.0,4.4,0,,Food,Night
+Ahmedabad,Kankaria Lake,Lake,3.0,4.5,10,,Recreational,Afternoon
+Ahmedabad,Science City,Science,7.0,4.4,500,Monday,Educational,All
+Jaipur,Hawa Mahal,Palace,1.0,4.4,50,,Architectural,Morning
+Udaipur,City Palace,Palace,2.0,4.4,300,,Historical,All
+Jaisalmer,Jaisalmer Fort,Fort,2.5,4.4,50,,Historical,All
+Sawai Madhopur,Ranthambore National Park,Wildlife Sanctuary,3.0,4.6,500,,Wildlife,All
+Pushkar,Pushkar Lake,Temple,1.5,4.4,0,,Religious,All
+Ajmer,Ajmer Sharif Dargah,Shrine,1.0,4.6,0,,Religious,All
+Jodhpur,Mehrangarh Fort,Fort,2.0,4.6,100,,Historical,All
+Chittorgarh,Chittorgarh Fort,Fort,2.0,4.6,40,,Historical,All
+Mount Abu,Dilwara Temples,Temple,1.0,4.6,0,,Religious,All
+Bikaner,Junagarh Fort,Fort,2.0,4.5,50,,Historical,All
+Jaipur,Amber Fort,Fort,2.0,4.6,100,,Historical,All
+Jaipur,Jaigarh Fort,Fort,1.5,4.5,35,,Historical,All
+Udaipur,Lake Pichola,Lake,1.0,4.6,0,,Nature,All
+Amritsar,Golden Temple (Harmandir Sahib),Religious Site,1.5,4.9,0,,Spiritual,All
+Amritsar,Jallianwala Bagh,Memorial,1.0,4.8,0,,Historical,Afternoon
+Amritsar,Wagah Border,Border Crossing,2.0,4.8,0,,Cultural,Evening
+Chandigarh,Rock Garden,Sculpture Garden,2.0,4.5,30,,Artistic,All
+Alappuzha,Alappuzha Beach,Beach,1.5,4.5,0,,Recreational,All
+Munnar,Munnar Tea Gardens,Scenic Area,2.0,4.3,0,,Nature,All
+Kochi,Fort Kochi,Site,1.0,4.4,0,,Historical,All
+Thiruvananthapuram,Padmanabhaswamy Temple,Temple,1.0,4.7,0,,Religious,All
+Kozhikode,Kozhikode Beach,Beach,1.5,3.9,0,,Recreational,All
+Wayanad,Wayanad Wildlife Sanctuary,Wildlife Sanctuary,3.0,4.5,300,,Wildlife,All
+Thekkady,Periyar National Park,National Park,3.0,4.3,50,,Wildlife,All
+Kumarakom,Kumarakom Bird Sanctuary,Bird Sanctuary,2.0,3.8,50,,Wildlife,All
+Varkala,Varkala Beach,Beach,2.0,4.6,0,,Recreational,All
+Bekal,Bekal Fort,Fort,1.5,4.5,20,,Historical,All
+Kovalam,Kovalam Beach,Beach,2.0,4.4,0,,Recreational,All
+Kannur,St. Angelo Fort,Fort,1.0,4.4,20,,Historical,All
+Nelliyampathy,Seethargundu Viewpoint,Viewpoint,1.0,4.5,0,,Nature,Morning
+Kochi,Kerala Folklore Museum,Cultural,1.5,4.4,100,Monday,Cultural,All
+Kochi,Wonderla Amusement Park,Amusement Park,5.5,4.6,750,,Entertainment,All
+Mysore,Mysore Palace,Palace,2.0,4.6,50,,Historical,All
+Hampi,Hampi Archaeological Ruins,Site,3.0,4.7,0,,Historical,All
+Coorg,Abbey Falls,Waterfall,1.0,4.1,0,,Nature,Morning
+Gokarna,Om Beach,Beach,2.0,4.5,0,,Nature,All
+Chikmagalur,Mullayanagiri,Mountain Peak,3.0,4.5,0,,Nature,All
+Badami,Badami Cave Temples,Cave,1.5,4.6,30,,Religious,All
+Shivamogga,Jog Falls,Waterfall,1.5,4.6,30,,Nature,Morning
+Mangalore,Panambur Beach,Beach,1.5,4.5,0,,Recreational,All
+Murudeshwar,Murudeshwar Temple,Temple,1.0,4.7,0,,Religious,All
+Bijapur,Gol Gumbaz,Mausoleum,1.5,4.5,20,,Historical,All
+Bandipur,Bandipur National Park,National Park,3.0,4.4,300,,Wildlife,Morning
+Halebidu,Halebidu Hoysaleswara Temple,Temple,1.0,4.7,15,,Religious,All
+Pune,Shaniwar Wada,Fort,2.0,4.4,50,,Historical,All
+Aurangabad,Ajanta Caves,Cave,3.0,4.6,30,Monday,Historical,Afternoon
+Nashik,Sula Vineyards,Vineyard,2.0,4.1,300,,Recreational,Afternoon
+Shirdi,Sai Baba Temple,Temple,1.5,4.7,0,,Religious,All
+Alibaug,Alibaug Beach,Beach,1.5,4.2,0,,Recreational,Evening
+Ratnagiri,Ganapatipule Temple,Temple,1.0,4.7,0,,Religious,All
+Nagpur,Deekshabhoomi,Monument,1.0,4.5,0,,Religious,Afternoon
+Kolhapur,Mahalakshmi Temple,Temple,1.0,4.8,0,,Religious,All
+Lonavala,Karla Caves,Cave,1.5,4.4,25,Yes,Historical,Afternoon
+Tarkarli,Tarkarli Beach,Beach,2.0,4.6,0,,Recreational,Evening
+Satara,Kaas Plateau,Valley,2.0,4.4,300,,Nature,Afternoon
+Matheran,Echo Point,Viewpoint,1.5,4.4,0,,Nature,Morning
+Ajanta,Ellora Caves,Cave,3.0,4.7,30,Tuesday,Historical,Afternoon
+Khajuraho,Khajuraho Group of Monuments,Temples,2.0,4.7,40,,Cultural,Afternoon
+Bhopal,Sanchi Stupa,Monument,1.5,4.7,30,,Historical,Afternoon
+Indore,Rajwada Palace,Palace,1.0,4.4,10,,Historical,Afternoon
+Gwalior,Gwalior Fort,Fort,2.5,4.5,75,,Historical,Morning
+Ujjain,Mahakaleshwar Jyotirlinga,Temple,1.5,4.8,0,,Religious,All
+Jabalpur,Dhuandhar Falls,Waterfall,1.0,4.5,0,,Nature,Morning
+Pachmarhi,Bee Falls,Waterfall,1.5,4.6,15,,Nature,Morning
+Kanha,Kanha National Park,Wildlife Sanctuary,3.0,4.5,100,,Wildlife,Morning
+Bandhavgarh,Bandhavgarh National Park,National Park,3.0,4.5,50,,Wildlife,Morning
+Orchha,Orchha Fort,Fort,1.5,4.8,10,,Historical,Afternoon
+Mandu,Jahaz Mahal,Site,1.0,3.9,50,,Historical,Afternoon
+Bhimbetka,Bhimbetka Rock Shelters,Prehistoric Site,2.0,4.6,25,,Archaeological,Afternoon
+Amarkantak,Narmada Udgam Temple,Temple,1.0,4.4,0,,Religious,All
+Chitrakoot,Chitrakoot Falls,Waterfall,1.5,4.4,0,,Nature,Morning
+Shimla,The Ridge,Scenic Point,1.0,4.7,0,,Recreational,Morning
+Manali,Solang Valley,Valley,2.0,4.1,0,,Adventure,Morning
+dalhousie,Dalai Lama Temple,Temple,1.5,4.7,0,,Religious,All
+Dalhousie,Khajjiar Lake,Lake,1.5,4.5,0,,Nature,Morning
+Spiti Valley,Key Monastery,Monastery,1.0,4.8,0,,Religious,Morning
+Kullu,Great Himalayan National Park,National Park,3.0,4.5,50,,Wildlife,All
+Chamba,Chamera Lake,Lake,2.0,4.4,0,,Recreational,Morning
+Kinnaur,Sangla Valley,Valley,2.0,4.5,0,,Nature,Morning
+Kangra,Kangra Fort,Fort,2.0,4.4,150,,Historical,All
+Palampur,Tea Gardens,Tea Plantation,1.5,4.6,0,,Agricultural,Morning
+Mandi,Prashar Lake,Lake,1.5,4.6,0,,Nature,Morning
+Bir Billing,Paragliding Site,Adventure Sport,2.0,4.8,2500,,Adventure,All
+McLeod Ganj,Triund Trek,Trekking,5.0,4.8,0,,Adventure,Morning
+Manikaran,Manikaran Sahib,Gurudwara,1.0,4.6,0,,Religious,Morning
+Narkanda,Hatu Peak,Viewpoint,2.0,4.5,0,,Nature,All
+Barot,Barot Valley,Valley,2.0,4.7,0,,Nature,Morning
+Shoja,Serolsar Lake,Lake,2.5,4.4,0,,Nature,Morning
+Kufri,Kufri Fun World,Ski Resort,5.0,3.8,1500,,Recreational,All
+Nainital,Naini Lake,Lake,1.5,4.2,0,,Nature,Morning
+Rishikesh,Laxman Jhula,Suspension Bridge,1.0,4.4,0,,Cultural,Morning
+Haridwar,Har Ki Pauri,Ghat,1.0,4.5,0,,Religious,All
+Dehradun,Robber's Cave,Cave,1.5,4.5,25,,Nature,Morning
+Mussoorie,Kempty Falls,Waterfall,1.5,4.2,15,,Nature,Morning
+Auli,Auli Ski Resort,Ski Resort,3.0,4.5,0,,Adventure,Morning
+Badrinath,Badrinath Temple,Temple,1.0,4.8,0,,Religious,All
+Almora,Binsar Wildlife Sanctuary,Wildlife Sanctuary,2.0,4.3,150,,Wildlife,All
+Ranikhet,Chaubatia Gardens,Orchard,1.0,4.0,50,,Recreational,All
+Jim Corbett,Jim Corbett National Park,National Park,3.0,4.4,100,,Wildlife,All
+Uttarkashi,Gangotri Temple,Temple,1.0,4.8,0,,Religious,All
+Chopta,Tungnath Temple,Temple,2.0,4.8,0,,Religious,All
+Joshimath,Valley of Flowers,National Park,5.0,4.7,150,,Nature,Morning
+Agra,Taj Mahal,Mausoleum,2.0,4.6,50,Friday,Historical,Morning
+Varanasi,Kashi Vishwanath Temple,Temple,1.0,4.7,0,,Religious,All
+Lucknow,Bara Imambara,Monument,1.5,4.4,50,Monday,Historical,All
+Mathura,Krishna Janmabhoomi,Temple,1.0,4.7,0,,Religious,All
+Ayodhya,Ram Janmabhoomi,Religious Site,1.0,4.8,0,,Religious,All
+Vrindavan,Banke Bihari Temple,Temple,1.0,4.8,0,,Religious,All
+Allahabad,Triveni Sangam,Confluence,1.0,4.5,0,,Religious,Morning
+Jhansi,Jhansi Fort,Fort,1.5,4.4,15,,Historical,All
+Sarnath,Dhamek Stupa,Monument,1.0,4.6,5,,Historical,All
+Fatehpur Sikri,Buland Darwaza,Monument,2.0,4.4,40,,Historical,Afternoon
+Noida,Okhla Bird Sanctuary,Bird Sanctuary,1.5,4.3,30,,Wildlife,All
+Aligarh,Aligarh Fort,Fort,1.0,4.1,20,,Historical,Afternoon
+Meerut,Augarnath Temple,Temple,1.0,4.8,0,,Religious,All
+Kanpur,Allen Forest Zoo,Zoo,2.0,4.2,150,Monday,Wildlife,All
+Srinagar,Dal Lake,Lake,2.0,4.6,0,,Nature,Morning
+Leh,Pangong Tso,Lake,2.0,4.9,20,,Nature,Morning
+Pahalgam,Betaab Valley,Valley,2.0,4.6,100,,Nature,All
+Jammu,Vaishno Devi,Temple,5.0,4.7,0,,Religious,All
+Udhampur,Patnitop Height,Hill,2.0,4.1,0,,Recreational,All
+Anantnag,Amarnath Cave,Temple,6.0,4.5,0,,Religious,All
+Leh,Thiksey Monastery,Monastery,1.5,4.7,20,,Religious,All
+Nubra Valley,Nubra Valley,Valley,2.0,4.5,0,,Nature,All
+Kargil,Kargil War Memorial,War Memorial,1.0,4.8,0,,Historical,All
+Diskit,Diskit Monastery,Monastery,1.0,4.7,20,,Religious,Morning
+Kishtwar,Kishtwar National Park,National Park,3.0,4.3,100,,Wildlife,All
+Hemis,Hemis National Park,National Park,4.0,4.4,20,,Wildlife,All
+Dras,Dras War Memorial,War Memorial,1.0,4.8,0,,Historical,All
+Leh,Magnetic Hill,Gravity Hill,0.5,3.7,0,,Nature,All
+Leh,Khardung La Pass,Hill,1.0,4.5,0,,Adventure,Afternoon
+Leh,Thiksey Monastery,Monastery,1.5,4.7,30,,Religious,All
+Vrindavan,Prem Mandir,Temple,1.5,4.8,0,,Religious,Evening
+Porbandar,Kirti Mandir,Memorial,1.0,4.8,0,,Historical,Morning
+Mathura,Nand Gaon,Village,1.0,4.1,0,,Cultural,Morning
+Mathura,Barsana Mandir,Temple,1.0,4.8,0,,Religious,Morning
+Darjeeling,Tiger Hill,Sunrise Point,1.0,4.5,0,,Nature,All
+Siliguri,Jaldapara National Park,Wildlife Sanctuary,3.0,4.4,250,,Wildlife,All
+Sundarbans,Sundarbans National Park,National Park,4.0,4.4,60,,Wildlife,All
+Digha,Digha Beach,Beach,1.5,4.5,0,,Recreational,Morning
+Murshidabad,Hazarduari Palace,Palace,1.5,4.5,10,Friday,Historical,Morning
+Bolpur,Kankalitala Temple,Temple,0.5,4.7,0,,Religious,All
+Hooghly,Hangseswari Temple,Temple,0.5,4.6,0,,Architectural,All
+Jalpaiguri,Gorumara National Park,National Park,3.0,4.4,100,,Wildlife,All
+Cooch Behar,Cooch Behar Palace,Palace,1.0,4.5,20,Friday,Historical,All
+Purulia,Ayodhya Hills,Hill,2.5,4.5,0,,Nature,All
+Puri,Jagannath Temple,Temple,2.0,4.7,0,,Religious,All
+Konark,Sun Temple,Temple,1.5,4.7,40,,Historical,All
+Bhubaneswar,Lingaraj Temple,Temple,1.0,4.6,0,,Religious,All
+Rourkela,Khandadhar Waterfall,Waterfall,1.5,4.5,0,,Nature,All
+Cuttack,Barabati Fort,Fort,1.0,4.5,0,,Historical,All
+Sambalpur,Hirakud Dam,Dam,1.0,4.5,0,,Engineering Marvel,All
+Chilika,Chilika Lake,Lake,2.0,3.9,0,,Nature,Morning
+Berhampur,Tara Tarini Temple,Temple,1.0,4.6,0,,Religious,All
+Keonjhar,Badaghagara Waterfall,Waterfall,1.0,4.3,0,,Nature,Morning
+Balasore,Chandipur Beach,Beach,1.5,4.2,0,,Recreational,Morning
+Kendujhar,Sanaghagara Waterfall,Waterfall,1.0,4.4,0,,Nature,All
+Chennai,Marina Beach,Beach,1.5,3.9,0,,Recreational,Morning
+Madurai,Meenakshi Amman Temple,Temple,2.0,4.7,0,,Religious,All
+Rameswaram,Ramanathaswamy Temple,Temple,1.5,4.6,0,,Religious,All
+Kanyakumari,Vivekananda Rock Memorial,Memorial,1.0,4.6,20,,Historical,Morning
+Ooty,Ooty Lake,Lake,1.0,4.1,10,,Recreational,Morning
+Coimbatore,Marudamalai Temple,Temple,1.0,4.7,0,,Religious,All
+Kodaikanal,Kodaikanal Lake,Lake,2.0,3.9,0,,Recreational,Morning
+Thanjavur,Brihadeeswarar Temple,Temple,1.5,4.8,0,,Religious,All
+Mahabalipuram,Shore Temple,Temple,1.0,4.6,40,,Historical,All
+Yercaud,Yercaud Lake,Lake,1.0,4.2,0,,Recreational,Morning
+Tirunelveli,Nellaiappar Temple,Temple,1.0,4.6,0,,Religious,All
+Chidambaram,Nataraja Temple,Temple,1.0,4.7,0,,Religious,All
+Vijayawada,Kanaka Durga Temple,Temple,1.0,4.7,0,,Religious,All
+Visakhapatnam,Rishikonda Beach,Beach,1.5,4.5,0,,Recreational,Morning
+Srisailam,Mallikarjuna Swamy Temple,Temple,1.0,4.7,0,,Religious,All
+Rajahmundry,Papikondalu,Hill,2.0,4.3,0,,Nature,All
+Anantapur,Lepakshi,Site,1.5,4.6,0,,Historical,All
+Kurnool,Belum Caves,Cave,1.5,4.4,65,,Natural Wonder,Afternoon
+Amravati,Amaravathi Temple,Temple,1.0,4.7,0,,Religious,All
+Guntur,Uppalapadu Bird Sanctuary,Bird Sanctuary,1.0,4.4,10,,Wildlife,All
+Kadapa,Gandikota Fort,Fort,1.5,4.5,0,,Historical,Morning
+Puttaparthi,Prasanthi Nilayam,Spiritual Center,1.0,4.7,0,,Religious,All
+Vizianagaram,Simhachalam Temple,Temple,1.0,4.7,0,,Religious,All
+Visakhapatnam,Kailasagiri,Hill,2.0,4.5,0,,Recreational,All
+Visakhapatnam,Submarine Museum,Museum,1.0,4.6,40,,Historical,All
+Visakhapatnam,Borra Caves,Cave,2.0,4.5,60,,Natural Wonder,Afternoon
+Visakhapatnam,War Memorial,War Memorial,1.0,4.6,0,,Historical,All
+Visakhapatnam,Indira Gandhi Zoological Park,Zoo,2.0,4.1,20,Monday,Wildlife,Afternoon
+Visakhapatnam,Matsyadarshini Aquarium,Aquarium,1.0,3.8,20,,Recreational,All
+Visakhapatnam,Visakha Museum,Museum,1.0,4.3,10,,Cultural,All
+Gangtok,Nathula Pass,Hill,2.0,4.3,20,,Historical,Afternoon
+Pelling,Pemayangtse Monastery,Monastery,1.0,4.6,20,,Religious,Morning
+Namchi,Char Dham,Religious Complex,2.0,4.7,50,,Religious,All
+Gangtok,Rumtek Monastery,Monastery,1.0,4.6,10,,Religious,Morning
+Ravangla,Buddha Park,Park,1.0,4.8,50,,Cultural,All
+Gangtok,Baba Harbhajan Singh Temple,Temple,1.0,4.7,0,,Religious,All
+Gangtok,Tsomgo Lake,Lake,2.0,4.5,0,,Nature,Morning
+Guwahati,Kamakhya Temple,Temple,2.0,4.6,0,,Religious,All
+Kaziranga,Kaziranga National Park,National Park,3.0,4.5,650,,Wildlife,Morning
+Guwahati,Umananda Island,Island,1.0,4.1,0,,Nature,Morning
+Sivasagar,Sivasagar Sivadol,Temple,1.0,4.7,0,,Historical,All
+Majuli,Majuli Island,River Island,2.0,4.7,0,,Cultural,Morning
+Manas,Manas National Park,National Park,3.0,4.6,500,,Wildlife,Morning
+Hajo,Hayagriva Madhava Temple,Temple,1.0,4.5,0,,Religious,All
+Guwahati,Pobitora Wildlife Sanctuary,Wildlife Sanctuary,2.0,4.4,500,,Wildlife,All
+Tawang,Tawang Monastery,Monastery,2.0,4.7,0,,Religious,Morning
+Agartala,Ujjayanta Palace,Palace,1.5,4.5,10,Monday,Historical,All
+Dumboor,Dumboor Lake,Lake,1.0,4.5,0,,Nature,Morning
+Unakoti,Unakoti Rock Carvings,Rock Carvings,1.5,4.5,20,,Historical,Morning
+Bastar,Chitrakote Falls,Waterfall,1.5,4.6,0,,Nature,Morning
+Dzükou Valley,Dzükou Valley,Valley,3.0,4.7,0,,Trekking,Afternoon
+Puducherry,Promenade Beach,Beach,1.0,4.5,0,,Recreational,Morning
+Auroville,Auroville,Township,2.0,4.1,0,,Cultural,All
+Puducherry,Paradise Beach,Beach,1.0,4.5,200,,Recreational,Morning
+Port Blair,Cellular Jail,Landmark,1.5,4.7,30,Monday,Historical,Afternoon
+Havelock Island,Radhanagar Beach,Beach,1.0,4.8,0,,Nature,Morning
+Neil Island,Bharatpur Beach,Beach,1.0,4.5,0,,Nature,Morning
+Baratang Island,Limestone Caves,Natural Feature,1.5,4.4,250,,Nature,Morning
+Diu,Naida Caves,Cave,1.0,4.5,0,,Nature,Afternoon
+Diu,Diu Fort,Fort,1.5,4.6,0,,Historical,Afternoon
+Deoghar,Baba Baidyanath Temple,Temple,1.0,4.7,0,,Religious,All
+Ranchi,Pahari Mandir,Temple,1.0,4.6,0,,Religious,All
+Bodh Gaya,Mahabodhi Temple,Temple,1.5,4.7,0,,Religious,All
+Patna,Sanjay Gandhi Biological Park,Zoo,2.5,4.3,30,,Wildlife,All
+Patna,Takhat Shri Harimandir Ji Patna Sahib,Gurudwara,1.0,4.7,0,,Religious,All
+Patna,Budhha Smriti Park,Park,1.0,4.4,10,,Cultural,All
+Gurugram,Kingdom of Dreams,Entertainment,3.0,4.4,1100,Monday,Entertainment,Afternoon
+Gurugram,Ambience Mall,Mall,2.0,4.6,0,,Shopping,Afternoon
+Gurugram,DLF CyberHub,Commercial Complex,2.0,4.7,0,,Entertainment,Afternoon
+New Delhi,Gurudwara Bangla Sahib,Gurudwara,1.0,4.8,0,,Religious,All
+Kedarnath,Kedarnath,Temple,1.5,4.8,0,,Religious,All
+Noida,DLF Mall of India,Mall,2.0,4.6,0,,Shopping,All
+Greater Noida,The Grand Venice Mall,Mall,2.0,4.2,0,,Shopping,All
+Bengaluru,Wonderla Amusement Park,Amusement Park,4.0,4.5,890,,Entertainment,All
+Bhubaneswar,Nandankanan Zoological Park,Zoo,3.0,4.4,50,Monday,Wildlife,Afternoon
+Bengaluru,Orion Mall,Mall,2.0,4.5,0,,Shopping,All
+Hyderabad,Inorbit Mall Cyberabad,Mall,2.0,4.5,0,,Shopping,All
+New Delhi,Jama Masjid,Mosque,1.0,4.5,0,,Historical,All
+Rameswaram,Ramanathaswamy Temple,Temple,1.5,4.7,0,,Religious,All
+Greater Noida,Buddh International Circuit,Race Track,2.0,4.6,1500,Sunday,Sports,All
+Lucknow,Phoenix Palassio,Mall,2.0,4.6,0,,Shopping,All
+Kochi,LuLu International Shopping Mall,Mall,3.0,4.6,0,,Shopping,All
+New Delhi,Rail Museum,Museum,2.0,4.4,50,Monday,Cultural,Morning
+Cherrapunji,Living Root Bridge,Natural Feature,2.0,4.6,0,,Nature,Morning
+Gandhinagar,Akshardham,Temple,3.0,4.6,0,Monday,Religious,All
+Agra,Agra Fort,Fort,2.0,4.5,40,,Historical,Afternoon
+Bhopal,Madhya Pradesh Tribal Museum,Museum,2.0,4.7,10,Monday,Cultural,All
+Jaipur,City Palace,Palace,2.0,4.4,200,,Historical,Morning
+Jaipur,Albert Hall Museum,Museum,2.0,4.5,200,,Historical,All

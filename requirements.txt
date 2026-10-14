@@ -1,0 +1,9 @@
+streamlit>=1.40
+requests
+numpy
+pandas
+faiss-cpu
+ollama
+python-dotenv
+geopy
+pip-system-certs
