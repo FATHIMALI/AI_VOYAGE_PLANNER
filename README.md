@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 * **Complete India Interactive & Route Mapping**
   * Centered on India (`79.5°E, 22.0°N`, zoom `4.2`, `1000x650`) to display the entire subcontinent from North to South without cropping.
@@ -39,7 +39,7 @@
 
 ---
 
-## 🏗️ Architecture & Tech Stack
+##  Architecture & Tech Stack
 
 ```mermaid
 graph TD
@@ -64,7 +64,7 @@ graph TD
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 AI_VOYAGE_PLANNER/
@@ -93,7 +93,7 @@ AI_VOYAGE_PLANNER/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 Ensure you have the following installed:
@@ -192,7 +192,7 @@ Ensure you have the following installed:
 
 ---
 
-## 🛠️ Verification & Testing
+##  Verification & Testing
 
 You can verify the backend endpoints and validation constraints directly:
 
@@ -220,6 +220,6 @@ curl -X POST "http://127.0.0.1:8000/api/trips/plan" \
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
